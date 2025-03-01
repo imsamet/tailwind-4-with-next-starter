@@ -1,0 +1,8 @@
+/* 
+  Tailwind 4.0
+
+  All Tailwind CSS Functions Doc: https://tailwindcss.com/docs/functions-and-directives 
+*/
+
+@import "tailwindcss";
+@import "./tailwind-config/color.css";

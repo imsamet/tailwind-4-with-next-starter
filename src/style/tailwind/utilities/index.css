@@ -1,0 +1,33 @@
+/* 
+  Examples 
+
+  Doc: https://tailwindcss.com/docs/adding-custom-styles#adding-custom-utilities
+*/
+
+/* 
+@utility content-auto {
+  content-visibility: auto;
+}
+
+<div class="content-auto">
+  <!-- ... -->
+</div>
+
+<div class="hover:content-auto">
+  <!-- ... -->
+</div>
+*/
+
+/* 
+@utility btn-* {
+  color: --value(--color-*);
+}
+
+<button class="btn-primary">
+  <!-- ... -->
+</button>
+
+<button class="btn-cyan">
+  <!-- ... -->
+</button>
+*/
